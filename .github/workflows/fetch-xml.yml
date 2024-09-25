@@ -2,7 +2,7 @@ name: Fetch External XML File
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Runs every hour
+    - cron: '*/5 * * * *'
 
 jobs:
   fetch-xml:
@@ -17,8 +17,8 @@ jobs:
 
       - name: Commit changes if updated
         run: |
-          git config --local user.email "tyuhase@mail.wvu.edu"  # Replace with your email
-          git config --local user.name "tyuhase"  # Replace with your name
+          git config --local user.email "tyuhase@mail.wvu.edu"  
+          git config --local user.name "tyuhase"  
           git add data.xml
           git commit -m "Update XML file" || echo "No changes to commit"
           git push
