@@ -18,7 +18,7 @@ jobs:
 
     - name: Download XML File
       run: |
-        curl -o data.xml http://infostations.wvu.edu/webform/Wfbue.xml  # Infostations XML URL
+        curl --retry 15 --retry-delay 30 -o data.xml http://infostations.wvu.edu/webform/Wfbue.xml  # Infostations XML URL
 
     - name: Commit and Push updated XML
       run: |
