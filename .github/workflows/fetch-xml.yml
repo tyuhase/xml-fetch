@@ -1,0 +1,24 @@
+name: Fetch External XML File
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour
+
+jobs:
+  fetch-xml:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Fetch XML file
+        run: |
+          curl -o data.xml http://infostations.wvu.edu/webform/Wfbue.xml  # Infostations XML URL
+
+      - name: Commit changes if updated
+        run: |
+          git config --local user.email "tyuhase@mail.wvu.edu"  # Replace with your email
+          git config --local user.name "tyuhase"  # Replace with your name
+          git add data.xml
+          git commit -m "Update XML file" || echo "No changes to commit"
+          git push
