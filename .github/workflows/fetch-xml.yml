@@ -18,13 +18,13 @@ jobs:
 
     - name: Download XML File
       run: |
-        curl -o path/to/local-file.xml http://example.com/your-external-xml-file.xml
+        curl -o data.xml http://infostations.wvu.edu/webform/Wfbue.xml  # Infostations XML URL
 
     - name: Commit and Push updated XML
       run: |
         git config --local user.name "github-actions[bot]"
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git add path/to/local-file.xml
+        git add data.xml
         git commit -m "Update XML file"
         git pull --rebase origin main  # Ensure your local branch is up-to-date
         git push origin main  # Push changes to the main branch
