@@ -18,8 +18,16 @@ jobs:
 
     - name: Download XML File
       run: |
-        curl --connect-timeout 30 --retry 15 --retry-delay 30 --raw -o data.xml http://infostations.wvu.edu/webform/Wfbue.xml  # Infostations XML URL
-
+        curl --raw --connect-timeout 30 --retry 15 --retry-delay 30 -o data.xml http://infostations.wvu.edu/webform/Wfbue.xml  # Infostations XML URL
+    - name: Unescape HTML entities
+      run: |
+        sed -i 's/&lt;/</g' data.xml
+        sed -i 's/&gt;/>/g' data.xml
+        sed -i 's/&quot;/"/g' data.xml
+        sed -i 's/&apos;/\'/g' data.xml
+        sed -i 's/&amp;/\&/g' data.xml
+        sed -i 's/&nbsp;/ /g' data.xml
+   
     - name: Commit and Push updated XML
       run: |
         git config --local user.name "github-actions[bot]"
