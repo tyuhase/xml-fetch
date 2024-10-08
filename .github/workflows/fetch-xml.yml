@@ -23,7 +23,7 @@ jobs:
       run: |
         sed -i 's/&lt;/</g' data.xml
         sed -i 's/&gt;/>/g' data.xml
-        sed -i 's/&quot;/"/g' data.xml
+        sed -i 's/&quot;/\"/g' data.xml
         sed -i 's/&apos;/\'/g' data.xml
         sed -i 's/&amp;/\&/g' data.xml
         sed -i 's/&nbsp;/ /g' data.xml
