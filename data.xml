@@ -6,7 +6,7 @@
 	<link>http://infostations.wvu.edu</link>
     <description>WVU Reynolds Hall Directory</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2026 09:20:21 EST</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 15:55:25 EST</lastBuildDate>
 
      <event>
  	 	<ProfileID>165</ProfileID>
@@ -53,7 +53,7 @@
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -109,7 +109,7 @@
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -153,7 +153,7 @@
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -197,7 +197,7 @@
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -235,11 +235,31 @@
         
 		<CV>http://infostations.wvu.edu/Webform/Wayfinding/WFBUE/WFBUEMedia/CV_AluriAjay166.pdf</CV>
         	
-        <Expertise>&lt;p&gt;Dr. Aluri is an internationally recognized scholar, speaker, and thought leader in hospitality innovation and technology. Dr. Aluri serves on the editorial and advisory boards of top, cutting-edge hospitality and tourism journals and organizations. He has been invited to speak at several international and national shows and conferences. Dr. Aluri receives numerous awards from international, national, and state-level organizations from academia and industry. The International Hospitality Institute (IHI) recently recognized Dr. Aluri as one of the top 100 Most Powerful People in USA Hospitality and the top 25 Most Influential Educators in Hospitality. The International CHRIE awarded Dr. Aluri the &amp;quot;2022 McCool Breakthrough Award,&amp;quot; given to an individual, group, program, school, college, association, or corporation that has made significant breakthroughs to introduce a unique approach in the spirit of ICHRIE&amp;#39;s mission. He established the state-of-the-art space, Hospitality Innovation and Technology (HIT) Lab, at the John Chambers College of Business and Economics, West Virginia University (WVU). Dr. Aluri&amp;#39;s academic and research expertise combines all areas of his education and research interests and focuses on hospitality information technology and management and information systems and how these areas impact international hospitality organizations, society, and education. His current focus is consumer behavior research regarding emerging technologies such as artificial intelligence, augmented reality, data mining, the Internet of Things, robotics, and virtual reality. His research has been published in several top academic journals and industry outlets. Dr. Aluri is the Founding Director of the HIT Lab, a platform to bridge the gaps between academic and industry research. He incorporates real-life projects based on issues hospitality businesses face today so that students can get hands-on problem-solving experience. This is part of Dr. Aluri&amp;#39;s teaching philosophy that students are best prepared for life after the classroom by getting real-life learning experiences with actual businesses along the way. Dr. Aluri played a vital role in developing the Hospitality program at WVU. Dr. Aluri is an Associate Professor in the Hospitality program at the WVU John Chambers College of Business and Economics.&lt;/p&gt;
+        <Expertise>&lt;p&gt;Dr. Ajay &amp;ldquo;AJ&amp;rdquo; Aluri is an Associate Professor at West Virginia University and
+Founding Director of the WVU Hospitality Innovation and Technology (HIT) Lab. An internationally
+recognized scholar, educator, and keynote speaker, his research focuses on artificial intelligence,
+robotics, customer experience, trust, and digital transformation in hospitality and tourism. His
+work examines how socially intelligent technologies can enhance operational efficiency, employee
+effectiveness, and guest experiences while preserving the human essence of hospitality.&amp;nbsp;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.ajaluri.com/&quot;&gt;https://www.ajaluri.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Dr. Aluri serves on the Global Board of Directors of Hospitality Financial and Technology
+Professionals (HFTP) and contributes to HFTP&amp;rsquo;s AI initiatives, including the HFTP AI Council
+and Hospitality AI Collective. He also advises industry organizations and publications, including
+Hospitality Technology, Hotel Executive, and MURTEC, and serves as Associate Editor of the
+&lt;em&gt;Journal of Hospitality and Tourism Technology&lt;/em&gt;.&amp;nbsp;&lt;/p&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;His contributions to hospitality education, research, and industry engagement have received
+national and international recognition. In 2026, the International Hospitality Institute (IHI) named
+him among the &lt;strong&gt;Global 100 Most Influential Educators in Hospitality&lt;/strong&gt;. He has also
+been recognized among IHI&amp;rsquo;s &lt;strong&gt;Top 100 Most Powerful People in U.S. Hospitality&lt;/strong&gt;
+and received the &lt;strong&gt;2022 ICHRIE McCool Breakthrough Award&lt;/strong&gt;.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Through applied research, executive education, industry partnerships, and global keynote
+presentations, Dr. Aluri works with hospitality organizations and technology companies to advance
+the responsible adoption of emerging technologies. His work centers on a high-touch, high-tech
+vision for the future of hospitality&amp;mdash;where human, artificial, and physical intelligence work
+together to improve performance, create more personalized experiences, and ensure that technology
+enhances rather than replaces the human foundations of hospitality.&amp;nbsp;&lt;/p&gt;
 </Expertise>
         
         <Education>&lt;ul&gt;
@@ -247,13 +267,14 @@
 	&lt;li&gt;M.S., International Studies, Oklahoma State University&lt;/li&gt;
 	&lt;li&gt;Graduate Certificate, Business Data Mining, Oklahoma State University&lt;/li&gt;
 	&lt;li&gt;SAS Business Data Mining Certificate, SAS Institute Inc. and Oklahoma State University&lt;/li&gt;
-	&lt;li&gt;B.Tech., Computer Science and Information Technology, Jawaharlal Nehru Technological University, India&lt;/li&gt;
+	&lt;li&gt;B.Tech., Computer Science and Information Technology, Jawaharlal Nehru Technological
+University, India&lt;/li&gt;
 &lt;/ul&gt;
 </Education>
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -309,7 +330,7 @@
 &lt;p style=&quot;margin-left:0in; margin-right:0in&quot;&gt;Burns, B.L., Barney, J.B., Angus, R.W., &amp;amp; Herrick, H.N. (2016). Enrolling stakeholders under conditions of risk and uncertainty. &lt;em&gt;Strategic Entrepreneurship Journal&lt;/em&gt;, 10: 97-106.&lt;/p&gt;
 </RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -353,7 +374,7 @@
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -406,7 +427,7 @@
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -457,7 +478,7 @@
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -501,7 +522,7 @@
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -565,7 +586,7 @@
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -615,7 +636,7 @@
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -659,7 +680,7 @@
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -703,7 +724,7 @@
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -747,7 +768,7 @@
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -791,7 +812,7 @@
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -835,7 +856,7 @@
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -879,7 +900,7 @@
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -940,7 +961,7 @@
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -984,7 +1005,7 @@
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -1028,7 +1049,7 @@
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -1072,7 +1093,7 @@
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -1116,7 +1137,7 @@
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -1166,7 +1187,7 @@
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -1210,7 +1231,7 @@
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -1312,7 +1333,7 @@ B.A. in Finance 2008
 
 </RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -1384,7 +1405,7 @@ Chen, T., Chen, J., Miller, D., Breton-Miller, I. L., &amp;amp; Chen, M.-J. (202
 &amp;nbsp;&lt;/p&gt;
 </RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -1434,7 +1455,7 @@ Chen, T., Chen, J., Miller, D., Breton-Miller, I. L., &amp;amp; Chen, M.-J. (202
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -1484,7 +1505,7 @@ Chen, T., Chen, J., Miller, D., Breton-Miller, I. L., &amp;amp; Chen, M.-J. (202
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -1528,7 +1549,7 @@ Chen, T., Chen, J., Miller, D., Breton-Miller, I. L., &amp;amp; Chen, M.-J. (202
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -1583,7 +1604,7 @@ Dr. Collignon is a member of the Decision Science Institute. Dr. Collignon&amp;r
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -1627,7 +1648,7 @@ Dr. Collignon is a member of the Decision Science Institute. Dr. Collignon&amp;r
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -1679,7 +1700,7 @@ Dr. Collignon is a member of the Decision Science Institute. Dr. Collignon&amp;r
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -1762,7 +1783,7 @@ Dr. Collignon is a member of the Decision Science Institute. Dr. Collignon&amp;r
 &lt;/ul&gt;
 </RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -1816,7 +1837,7 @@ Dr. Cooper received the West Virginia University Student Engagement &amp;amp; Le
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -1860,7 +1881,7 @@ Dr. Cooper received the West Virginia University Student Engagement &amp;amp; Le
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -1904,7 +1925,7 @@ Dr. Cooper received the West Virginia University Student Engagement &amp;amp; Le
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -1948,7 +1969,7 @@ Dr. Cooper received the West Virginia University Student Engagement &amp;amp; Le
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -1998,7 +2019,7 @@ Dr. Cooper received the West Virginia University Student Engagement &amp;amp; Le
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -2046,7 +2067,7 @@ Dr. Cooper received the West Virginia University Student Engagement &amp;amp; Le
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -2090,7 +2111,7 @@ Dr. Cooper received the West Virginia University Student Engagement &amp;amp; Le
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -2134,7 +2155,7 @@ Dr. Cooper received the West Virginia University Student Engagement &amp;amp; Le
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -2178,7 +2199,7 @@ Dr. Cooper received the West Virginia University Student Engagement &amp;amp; Le
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -2234,7 +2255,7 @@ Dr. Cooper received the West Virginia University Student Engagement &amp;amp; Le
 </HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -2303,7 +2324,7 @@ Dr. Cooper received the West Virginia University Student Engagement &amp;amp; Le
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -2347,7 +2368,7 @@ Dr. Cooper received the West Virginia University Student Engagement &amp;amp; Le
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -2391,7 +2412,7 @@ Dr. Cooper received the West Virginia University Student Engagement &amp;amp; Le
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -2435,7 +2456,7 @@ Dr. Cooper received the West Virginia University Student Engagement &amp;amp; Le
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -2487,7 +2508,7 @@ Dr. Cooper received the West Virginia University Student Engagement &amp;amp; Le
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -2531,7 +2552,7 @@ Dr. Cooper received the West Virginia University Student Engagement &amp;amp; Le
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -2575,7 +2596,7 @@ Dr. Cooper received the West Virginia University Student Engagement &amp;amp; Le
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -2625,7 +2646,7 @@ Dr. Cooper received the West Virginia University Student Engagement &amp;amp; Le
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -2670,7 +2691,7 @@ Dr. Cooper received the West Virginia University Student Engagement &amp;amp; Le
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -2714,7 +2735,7 @@ Dr. Cooper received the West Virginia University Student Engagement &amp;amp; Le
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -2780,7 +2801,7 @@ Dr. Cooper received the West Virginia University Student Engagement &amp;amp; Le
 &lt;/ul&gt;
 </RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -2824,7 +2845,7 @@ Dr. Cooper received the West Virginia University Student Engagement &amp;amp; Le
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -2873,7 +2894,7 @@ Dr. Cooper received the West Virginia University Student Engagement &amp;amp; Le
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -2917,7 +2938,7 @@ Dr. Cooper received the West Virginia University Student Engagement &amp;amp; Le
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -2969,7 +2990,7 @@ Dr. Cooper received the West Virginia University Student Engagement &amp;amp; Le
 </HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -3020,7 +3041,7 @@ Dr. Cooper received the West Virginia University Student Engagement &amp;amp; Le
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -3064,7 +3085,7 @@ Dr. Cooper received the West Virginia University Student Engagement &amp;amp; Le
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -3181,7 +3202,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
 &lt;p&gt;Galak, Jeff, &lt;strong&gt;Julian Givi&lt;/strong&gt;, and Elanor F. Williams (2016), &amp;ldquo;Why Certain Gifts Are Great to Give But Not to Get: A Framework for Understanding Errors in Gift Giving,&amp;rdquo; &lt;em&gt;Current Directions in Psychological Science&lt;/em&gt;, 25 (6), 380-385.&lt;/p&gt;
 </RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -3225,7 +3246,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -3277,7 +3298,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -3321,7 +3342,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -3365,7 +3386,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -3409,7 +3430,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -3460,7 +3481,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <RecentPublications>&lt;p&gt;Economics Department Chair Joshua Hall, and Econ PhD students Eduardo Minuci and Amir Neto, had their article &amp;quot;A Data Envelopment Analysis of West Virginia School Districts&amp;quot; accepted for publication in Heliyon.&lt;/p&gt;
 </RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -3508,7 +3529,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -3552,7 +3573,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -3596,7 +3617,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -3646,7 +3667,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -3690,7 +3711,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -3734,7 +3755,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -3778,7 +3799,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -3822,7 +3843,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -3882,7 +3903,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -3926,7 +3947,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -3995,7 +4016,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
 </HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -4045,7 +4066,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -4096,7 +4117,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -4140,7 +4161,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -4193,7 +4214,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -4237,7 +4258,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -4281,7 +4302,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -4325,7 +4346,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -4369,7 +4390,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -4413,7 +4434,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -4457,7 +4478,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -4501,7 +4522,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -4545,7 +4566,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -4590,7 +4611,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -4634,7 +4655,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -4678,7 +4699,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -4722,7 +4743,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -4766,7 +4787,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -4810,7 +4831,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -4854,7 +4875,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -4898,7 +4919,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -4942,7 +4963,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -4986,7 +5007,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -5030,7 +5051,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -5093,7 +5114,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
 </HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -5160,7 +5181,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
 </HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -5204,7 +5225,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -5248,7 +5269,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -5292,7 +5313,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -5348,7 +5369,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -5401,7 +5422,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <RecentPublications>&lt;p style=&quot;margin-left:0in; margin-right:0in&quot;&gt;He has published in premier journals such as IEEE TKDE, ACM TKDD, ACM TOPS, ACM TIST; in top conferences in Data Science (e.g., ACM KDD), Artificial Intelligence (e.g., AAAI), Security/Privacy (e.g., USENIX Security).&lt;/p&gt;
 </RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -5445,7 +5466,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -5489,7 +5510,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -5533,7 +5554,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -5577,7 +5598,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -5621,7 +5642,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -5665,7 +5686,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -5714,7 +5735,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -5758,7 +5779,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -5802,7 +5823,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -5846,7 +5867,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -5890,7 +5911,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -5951,7 +5972,7 @@ Dr. Givi has published papers in many of the leading journals in marketing and p
 </HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -6010,7 +6031,7 @@ West Virginia University. He received the Ph.D. in philosophy from the Universit
 
 </RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -6062,7 +6083,7 @@ is a US Army Veteran.&lt;/p&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -6106,7 +6127,7 @@ is a US Army Veteran.&lt;/p&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -6157,7 +6178,7 @@ is a US Army Veteran.&lt;/p&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -6208,7 +6229,7 @@ is a US Army Veteran.&lt;/p&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -6252,7 +6273,7 @@ is a US Army Veteran.&lt;/p&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -6296,7 +6317,7 @@ is a US Army Veteran.&lt;/p&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -6352,7 +6373,7 @@ is a US Army Veteran.&lt;/p&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -6416,7 +6437,7 @@ is a US Army Veteran.&lt;/p&gt;
 &lt;/ul&gt;
 </RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -6463,7 +6484,7 @@ is a US Army Veteran.&lt;/p&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -6514,7 +6535,7 @@ is a US Army Veteran.&lt;/p&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -6563,7 +6584,7 @@ is a US Army Veteran.&lt;/p&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -6610,7 +6631,7 @@ is a US Army Veteran.&lt;/p&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -6654,7 +6675,7 @@ is a US Army Veteran.&lt;/p&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -6698,7 +6719,7 @@ is a US Army Veteran.&lt;/p&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -6742,7 +6763,7 @@ is a US Army Veteran.&lt;/p&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -6786,7 +6807,7 @@ is a US Army Veteran.&lt;/p&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -6835,7 +6856,7 @@ is a US Army Veteran.&lt;/p&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -6887,7 +6908,7 @@ is a US Army Veteran.&lt;/p&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -6933,7 +6954,7 @@ is a US Army Veteran.&lt;/p&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -6989,7 +7010,7 @@ is a US Army Veteran.&lt;/p&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -7033,7 +7054,7 @@ is a US Army Veteran.&lt;/p&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -7105,7 +7126,7 @@ is a US Army Veteran.&lt;/p&gt;
         <RecentPublications>&lt;p&gt;For a full list of publications, please visit &lt;a href=&quot;https://sites.google.com/site/berniequiroga/&quot;&gt;http://www.quiroga.org&lt;/a&gt;.&lt;/p&gt;
 </RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -7149,7 +7170,7 @@ is a US Army Veteran.&lt;/p&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -7201,7 +7222,7 @@ is a US Army Veteran.&lt;/p&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -7248,7 +7269,7 @@ is a US Army Veteran.&lt;/p&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -7301,7 +7322,7 @@ B.S., Economics and Mathematics, George Mason University
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -7345,7 +7366,7 @@ B.S., Economics and Mathematics, George Mason University
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -7389,7 +7410,7 @@ B.S., Economics and Mathematics, George Mason University
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -7433,7 +7454,7 @@ B.S., Economics and Mathematics, George Mason University
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -7495,7 +7516,7 @@ B.S., Economics and Mathematics, George Mason University
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -7539,7 +7560,7 @@ B.S., Economics and Mathematics, George Mason University
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -7589,7 +7610,7 @@ B.S., Economics and Mathematics, George Mason University
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -7657,7 +7678,7 @@ B.S., Economics and Mathematics, George Mason University
 &lt;p style=&quot;margin-left:1rem; margin-right:1rem&quot;&gt;Ryou, J.W. with Hong, H.A. and Lobo, G.J. 2019. Financial Market Development and Firm Investment in Tax Avoidance: Evidence from Credit Default Swap Market. &lt;em&gt;Journal of Banking &amp;amp; Finance&lt;/em&gt; 107: 105608 Ryou, J.W. with Griffin, P.A. and Hong, H.A. 2018. Corporate innovative efficiency: Evidence of effects on credit ratings. &lt;em&gt;Journal of Corporate Finance&lt;/em&gt; 51: 352-373.&lt;/p&gt;
 </RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -7721,7 +7742,7 @@ B.S., Economics and Mathematics, George Mason University
 </HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -7765,7 +7786,7 @@ B.S., Economics and Mathematics, George Mason University
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -7819,7 +7840,7 @@ B.S., Economics and Mathematics, George Mason University
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -7868,7 +7889,7 @@ B.S., Economics and Mathematics, George Mason University
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -7920,7 +7941,7 @@ B.S., Economics and Mathematics, George Mason University
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -7964,7 +7985,7 @@ B.S., Economics and Mathematics, George Mason University
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -8008,7 +8029,7 @@ B.S., Economics and Mathematics, George Mason University
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -8052,7 +8073,7 @@ B.S., Economics and Mathematics, George Mason University
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -8096,7 +8117,7 @@ B.S., Economics and Mathematics, George Mason University
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -8145,7 +8166,7 @@ B.S., Economics and Mathematics, George Mason University
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -8189,7 +8210,7 @@ B.S., Economics and Mathematics, George Mason University
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -8233,7 +8254,7 @@ B.S., Economics and Mathematics, George Mason University
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -8277,7 +8298,7 @@ B.S., Economics and Mathematics, George Mason University
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -8321,7 +8342,7 @@ B.S., Economics and Mathematics, George Mason University
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -8365,7 +8386,7 @@ B.S., Economics and Mathematics, George Mason University
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -8415,7 +8436,7 @@ B.S., Economics and Mathematics, George Mason University
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -8459,7 +8480,7 @@ B.S., Economics and Mathematics, George Mason University
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -8509,7 +8530,7 @@ B.S., Economics and Mathematics, George Mason University
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -8579,7 +8600,7 @@ Security Administrator for the Eberly College of Arts and Sciences&lt;/p&gt;
 </HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -8624,7 +8645,7 @@ Security Administrator for the Eberly College of Arts and Sciences&lt;/p&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -8668,7 +8689,7 @@ Security Administrator for the Eberly College of Arts and Sciences&lt;/p&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -8712,7 +8733,7 @@ Security Administrator for the Eberly College of Arts and Sciences&lt;/p&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -8762,7 +8783,7 @@ Security Administrator for the Eberly College of Arts and Sciences&lt;/p&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -8811,7 +8832,7 @@ Security Administrator for the Eberly College of Arts and Sciences&lt;/p&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -8885,7 +8906,7 @@ Vann, Richard J., Emily C. Tanner, and Elvira Kizilova (2022), &amp;ldquo;Percei
 Tanner, Emily C. Richard J. Vann, and Elvira Kizilova (2020), &amp;ldquo;Consumer-Level Perceived Access to Health Services and Its Effects on Perceived Vulnerability and Health Outcomes,&amp;rdquo; Journal of Public Policy and Marketing, 39 (2), 240-255.&lt;/p&gt;
 </RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -8931,7 +8952,7 @@ Tanner, Emily C. Richard J. Vann, and Elvira Kizilova (2020), &amp;ldquo;Consume
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -8975,7 +8996,7 @@ Tanner, Emily C. Richard J. Vann, and Elvira Kizilova (2020), &amp;ldquo;Consume
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -9047,7 +9068,7 @@ the Salt Lake City and Washington D.C. areas.&lt;/p&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -9091,7 +9112,7 @@ the Salt Lake City and Washington D.C. areas.&lt;/p&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -9135,7 +9156,7 @@ the Salt Lake City and Washington D.C. areas.&lt;/p&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -9179,7 +9200,7 @@ the Salt Lake City and Washington D.C. areas.&lt;/p&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -9230,7 +9251,7 @@ the Salt Lake City and Washington D.C. areas.&lt;/p&gt;
 </HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -9282,7 +9303,7 @@ Mike serves on the board of director&amp;#39;s executive committee of the Pittsb
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -9355,7 +9376,7 @@ Mike serves on the board of director&amp;#39;s executive committee of the Pittsb
 &lt;p&gt;Cross-listing and Corporate Social Responsibility with N. Boubakri, S. El Ghoul, O. Guedhami, and C. Kwok.&amp;nbsp;&lt;em&gt;Journal of Corporate Finance&lt;/em&gt;&amp;nbsp;2016 (41), 123-138.&lt;/p&gt;
 </RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -9405,7 +9426,7 @@ Mike serves on the board of director&amp;#39;s executive committee of the Pittsb
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -9477,7 +9498,7 @@ Tao Zhang, Xinchun Wang, and Guijun Zhuang (2017), The Effects of IT Resources o
 Xinchun Wang, Dennis B. Arnett and Limin Hou (2016), Understanding the Knowledge Leveraging Process: Using External Knowledge to Improve Organizational Innovativeness, Journal of Business and Industrial Marketing, 31(2), 164-173.&lt;/p&gt;
 </RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -9521,7 +9542,7 @@ Xinchun Wang, Dennis B. Arnett and Limin Hou (2016), Understanding the Knowledge
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -9598,7 +9619,7 @@ li--&gt;&lt;/li&gt;
 &lt;p&gt;Weber, DP, Warren R, Fogerty, T, Dushi, V.&lt;em&gt; Forced Attrition Will Make Tax Evasion Great Again&lt;/em&gt;, Tax Notes Federal, April 2025, Volume 187, 57-65&lt;/p&gt;
 </RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -9642,7 +9663,7 @@ li--&gt;&lt;/li&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -9686,7 +9707,7 @@ li--&gt;&lt;/li&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -9731,7 +9752,7 @@ li--&gt;&lt;/li&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -9775,7 +9796,7 @@ li--&gt;&lt;/li&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -9819,7 +9840,7 @@ li--&gt;&lt;/li&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -9863,7 +9884,7 @@ li--&gt;&lt;/li&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -9908,7 +9929,7 @@ li--&gt;&lt;/li&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -9952,7 +9973,7 @@ li--&gt;&lt;/li&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -9996,7 +10017,7 @@ li--&gt;&lt;/li&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -10040,7 +10061,7 @@ li--&gt;&lt;/li&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -10084,7 +10105,7 @@ li--&gt;&lt;/li&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -10135,7 +10156,7 @@ li--&gt;&lt;/li&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -10179,7 +10200,7 @@ li--&gt;&lt;/li&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -10223,7 +10244,7 @@ li--&gt;&lt;/li&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -10267,7 +10288,7 @@ li--&gt;&lt;/li&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -10336,7 +10357,7 @@ li--&gt;&lt;/li&gt;
 </HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -10411,7 +10432,7 @@ li--&gt;&lt;/li&gt;
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
      <event>
@@ -10463,7 +10484,7 @@ As an associate director of Center for Asian Business, his primary responsibilit
         <HonorsAwards></HonorsAwards>
         <RecentPublications></RecentPublications>
         <Approved>1</Approved>
-        <pubDate>Mon, 05 Oct 2026 09:20:21 EST</pubDate>
+        <pubDate>Mon, 05 Oct 2026 15:55:25 EST</pubDate>
 	</event>
        
 </channel>
